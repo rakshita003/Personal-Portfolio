@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website — crafted with ❤️ and code!
 
-🔗 **Live Demo:** [rakshita003.github.io](https://rakshita003.github.io)
+🔗 **Live Demo:** [Personal-Portfolio](https://rakshita003.github.io/Personal-Portfolio/)
 
 ## 🚀 About Me
 I'm a Computer Science graduate from the University of Ottawa with a strong interest in Data Science, AI, and Web Technologies. This portfolio showcases my education, featured projects, and certifications.
